@@ -35,7 +35,7 @@ const Home = () => {
                 />
                 <div class="text-center lg:w-2/3 w-full">
                   <h1 class="title-font sm:text-4xl text-3xl mb-4 font-bold text-cyan-600">
-                    Sohail Tanveer
+                    John Doe
                   </h1>
                   <p class="mb-8 leading-relaxed text-gray-300 font-bold">
                    I'm a Full-stack web developer, i have mentioned the tech-stack that i use,

@@ -12,13 +12,13 @@ const Contact = () => {
           <p className="text-4xl font-bold inline border-b-4 border-gray-500">
             Contact
           </p>
-          <p className="py-6">Submit the form below to get in touch with me. <br/> OR<br/>Contact no: +91 9381847778.<br/>email: sohailtanveer769@gmail
+          <p className="py-6">Submit the form below to get in touch with me. <br/> OR<br/>Contact no: +91 XXXXXX.<br/>email: JohnDoe@gmail
           </p>
         </div>
 
         <div className=" flex justify-center items-center">
           <form
-            action="https://getform.io/f/69fb60fe-9aad-42d1-bfd4-b2fbdfaa56e7"
+            action="#"
             method="POST"
             className=" flex flex-col w-full md:w-1/2"
           >

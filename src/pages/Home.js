@@ -115,7 +115,7 @@ const Home = () => {
              features like search, paginations are included. 
             </p>
             <button class="flex mx-auto mt-6 text-white bg-indigo-500 border-0 py-2 px-5 focus:outline-none hover:bg-indigo-600 rounded">
-            <a href='https://imdb-clone-one.vercel.app/' target="_blank">
+            <a href='#' target="_blank">
                 visit the complete project in detail
             </a>
             </button>
@@ -136,7 +136,7 @@ const Home = () => {
               it uses a lot of node modules as well, 2 users from anywhere can connect by entering one the id in the site
             </p>
             <button class="flex mx-auto mt-6 text-white bg-indigo-500 border-0 py-2 px-5 focus:outline-none hover:bg-indigo-600 rounded">
-            <a href='https://github.com/sohailtanveer01/video-chat' target="_blank">
+            <a href='#' target="_blank">
                 visit the complete project in detail
             </a>
             </button>
@@ -156,7 +156,7 @@ const Home = () => {
               Built a website for this edtech startup
             </p>
             <button class="flex mx-auto mt-6 text-white bg-indigo-500 border-0 py-2 px-5 focus:outline-none hover:bg-indigo-600 rounded">
-            <a href='https://elitecareerc.com/' target="_blank">
+            <a href='#' target="_blank">
                 visit the complete project in detail
             </a>
             </button>

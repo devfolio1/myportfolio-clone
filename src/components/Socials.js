@@ -13,7 +13,7 @@ const SocialLinks = () => {
           LinkedIn <FaLinkedin size={30} />
         </>
       ),
-      href: "https://www.linkedin.com/in/sohail-tanveer-6623b51a3/",
+      href: "#",
       style: "rounded-tr-md",
     },
     {
@@ -23,7 +23,7 @@ const SocialLinks = () => {
           GitHub <FaGithub size={30} />
         </>
       ),
-      href: "https://github.com/sohailtanveer01",
+      href: "#",
     },
     {
       id: 3,
@@ -32,7 +32,7 @@ const SocialLinks = () => {
           Mail <HiOutlineMail size={30} />
         </>
       ),
-      href: "mailto:sohailtanveer769@gmail.com",
+      href: "#",
     },
     {
         id: 4,
@@ -41,14 +41,15 @@ const SocialLinks = () => {
             Instagram <FaInstagram size={30} />
           </>
         ),
-        href: "https://www.instagram.com/sohail_tanveer01/",
+        href: "#",
       },
       {
         id: 5,
         child: (
           <>
+          Rsume
 
-           Resume <a href={Resume} download="Resume.pdf"><BsFillPersonLinesFill size={30} /></a>
+           {/* Resume <a href={Resume} download="Resume.pdf"><BsFillPersonLinesFill size={30} /></a> */}
           </>
         ),
         href: {Resume},

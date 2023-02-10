@@ -1,5 +1,5 @@
 import React from 'react'
-import Resume from "../new-res-3.pdf"
+// import Resume from "../new-res-3.pdf"
 import SocialLinks from '../components/Socials';
 import DP from "../Images/dp.jpg";
 import vc from "../Images/vc.jpg"
@@ -52,7 +52,8 @@ const Home = () => {
                     </button>
                   </div>
                   <button class="inline-flex text-white bg-cyan-600 mt-5 border-0 py-2 px-6 focus:outline-none hover: rounded text-lg">
-                      <a href={Resume} download="Resume.pdf">Get My Resume</a>
+                      {/* <a href={Resume} download="Resume.pdf">Get My Resume</a> */}
+                      <p>Resume</p>
                     </button>
                 </div>
               </div>

@@ -1,5 +1,5 @@
 import React from "react";
-import Resume from "../new-res-3.pdf"
+// import Resume from "../new-res-3.pdf"
 import { FaGithub, FaLinkedin, FaInstagram } from "react-icons/fa";
 import { HiOutlineMail } from "react-icons/hi";
 import { BsFillPersonLinesFill } from "react-icons/bs";
@@ -52,7 +52,7 @@ const SocialLinks = () => {
            {/* Resume <a href={Resume} download="Resume.pdf"><BsFillPersonLinesFill size={30} /></a> */}
           </>
         ),
-        href: {Resume},
+        // href: {Resume},
         style: "rounded-br-md",
         
       },
